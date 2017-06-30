@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 import os
 
 nn_settings = {
-    "data_1" : 'C:\Users\Aman Nagar\Desktop\Python_assig\_train',
-    "data_2" : 'C:\Users\Aman Nagar\Desktop\Python_assig\_train_2',
-    "data_3" : 'C:\Users\Aman Nagar\Desktop\Python_assig\_test',
+    "data_1" : 'C:\Users\Vaibhav Sharma\Desktop\Neural_Network\_train',
+    "data_2" : 'C:\Users\Vaibhav Sharma\Desktop\Neural_Network\_train_2',
+    "data_3" : 'C:\Users\Vaibhav Sharma\Desktop\Neural_Network\\_test',
     "output_layer_neurons": 784,
     "batch_size": 128,
     "epochs": 2,
@@ -20,9 +20,9 @@ nn_settings = {
 }
 
 data_settings = {
-    "data_1": 'C:\Users\Aman Nagar\Desktop\Python_assig\_train',
-    "data_2": 'C:\Users\Aman Nagar\Desktop\Python_assig\_train_2',
-    "data_3": 'C:\Users\Aman Nagar\Desktop\Python_assig\_test',
+    "data_1": 'C:\Users\Vaibhav Sharma\Desktop\Neural_Network\_train',
+    "data_2": 'C:\Users\Vaibhav Sharma\Desktop\Neural_Network\_train_2',
+    "data_3": 'C:\Users\Vaibhav Sharma\Desktop\Neural_Network\_test',
     "data_1_samples": 20000,
     "data_2_samples": 2000,
     "data_3_samples": 100,
